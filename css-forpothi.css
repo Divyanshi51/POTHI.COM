@@ -216,6 +216,12 @@ li,a{
     #books-200{
         display: none;
     }
+      #tab-1,#tab-2,#tab-3{
+        line-height: 1;
+    }
+    #tab{
+        justify-content: space-around;
+   }
 }
   
 
